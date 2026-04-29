@@ -53,27 +53,6 @@ User Input
 
 ---
 
-## 🚀 Quick Start (Google Colab)
-
-### Step 1 — Open the notebook
-Click the **Open in Colab** badge above, or upload `travel_agent_chatbot.ipynb` manually.
-
-### Step 2 — Get a free API key
-Go to **[aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)** and create a key. It's free, no billing required.
-
-### Step 3 — Run Cell 1 (Install)
-```
-Runtime → Run cell → then Runtime → Restart runtime
-```
-
-### Step 4 — Run Cells 2–5 (Setup)
-Runs config, prompts, memory, and engine setup. You'll be prompted for your API key in Cell 2.
-
-### Step 5 — Run Cell 6 (Chat)
-Start talking to the travel agent. Type `quit` to exit.
-
----
-
 ## 💻 Local Installation
 
 ```bash
